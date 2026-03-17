@@ -13,7 +13,7 @@
 
 ## 🌐 Live Demo
 
-🚀 **Play Kids BrainPlay Games Now!** *https://bhagwati23.github.io/BrainPlay/*
+🚀 **Play Kids BrainPlay Games Now!** *[https://bhagwati23.github.io/BrainPlay/](Visit Site)*
 
 ---
 
